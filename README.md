@@ -22,3 +22,41 @@ The website has been well-received by users who appreciate its focus on relevant
 
 Overall, the YouTube-focused website provides a streamlined and efficient way for users to find the videos they need without getting sidetracked by unrelated content.
 
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/adnanahmads999/matrixfree.git
+```
+
+Go to the project directory
+
+```bash
+  cd Matrix Free
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Add your API key in .env file at root directory from
+
+https://rapidapi.com/ytdlfree/api/youtube-v31
+
+
+
+
+Create .env file
+
+```bash
+  REACT_APP_API_KEY='your API key'
+```
+Start the server
+
+```bash
+  npm  start
+```
