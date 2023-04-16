@@ -18,7 +18,7 @@ To ensure that the website only displays relevant content, we have implemented f
 
 ## Results
 
-The website has been well-received by users who appreciate its focus on relevant content and lack of distractions. Users have praised the website's easy-to-use interface and the ability to save and organize their favorite videos. The website has seen steady traffic and engagement since its launch, and we continue to improve and update it based on user feedback.
+The website has been well-received by users who appreciate its focus on relevant content and lack of distractions. Different Users have praised the website's easy-to-use interface and the ability to save and organize their favourite videos. In this website, we’ll continue to improve and update it based on user feedback. Also we’re working on major updates as well.
 
 Overall, the YouTube-focused website provides a streamlined and efficient way for users to find the videos they need without getting sidetracked by unrelated content.
 
